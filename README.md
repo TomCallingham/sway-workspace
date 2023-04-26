@@ -2,6 +2,10 @@
 
 Output aware Sway workspace switcher with window move feature
 
+Modified by TomCallingham to work on named workspaces.
+
+First rust project, why am I cloning so much?
+
 ## Install
 
 ```
